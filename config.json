@@ -1,9 +1,9 @@
 {
-  "video_path": "input.mp4",  //входное видео Только .mp4
-  "output_directory": "output", //папка куда сохраняться все будет
-  "motion_threshold": 500,   //чувствительность детектора
-  "delay_seconds": 1,  //задержка между сохраненнием кадров
-  "square_size": 100,  //размер квадрата
-  "window_width": 800,   //ширина окна по умолчанию
-  "window_height": 600   //высота окна по умолчанию
+  "video_path": "input.mp4",  
+  "output_directory": "output", 
+  "motion_threshold": 500,   
+  "delay_seconds": 1,  
+  "square_size": 100,  
+  "window_width": 800,   
+  "window_height": 600   
 }
