@@ -1,3 +1,4 @@
+
 ![Kartynka](https://i.ibb.co/Pt63Hw7/9-Cu7i-KX2-I-4-2.jpg)
 # MotionDetection
 Детектор движения на видео
@@ -9,7 +10,7 @@ $ pip install cv2
 $ pip install os
 ```
 ---
-## Настройка JSON файла (где main.exe)
+## Настройка JSON файла
 ```json
 "video_path": "input.mp4" Путь к видеофайлу, который будет обрабатываться. ВСЕГДА В .mp4
 "output_directory": "output" Папка, в которой будут сохраняться кадры с обнаруженным движением.
